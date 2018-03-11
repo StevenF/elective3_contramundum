@@ -1,0 +1,13 @@
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\bin\Debug\Elective3Client.exe.config
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\bin\Debug\Elective3Client.exe
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\bin\Debug\Elective3Client.pdb
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.csprojResolveAssemblyReference.cache
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Nameless.Login.resources
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.Properties.Resources.resources
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Nameless.SignUp.resources
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Nameless.StartPage.resources
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Nameless.Wall.resources
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.csproj.GenerateResource.Cache
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.csproj.CoreCompileInputs.cache
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.exe
+C:\Users\John Steven Frio\source\repos\Elective3Server\Elective3Client\obj\Debug\Elective3Client.pdb
